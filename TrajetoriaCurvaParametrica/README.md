@@ -3,9 +3,7 @@
 
 ## Descrição do Projeto
 
-Breve explicação sobre o objetivo do projeto. Por exemplo:
-
-> Este jogo foi desenvolvido como parte da disciplina *Animação Computadorizada* com o objetivo de explorar animações programadas e controladas em tempo real. O jogador controla um personagem que coleta itens enquanto desvia de obstáculos, utilizando técnicas de interpolação, animação por sprites e sistema de partículas.
+> Este jogo foi desenvolvido como parte da disciplina *Animação Computadorizada* com o objetivo de criar a animação do movimento de um objeto com base em curvar paramétricas. O jogador coloca pontos em um plano que podem formar interpolação linear ou uma curva de Bezier. Em seguida o jogador pode fazer com que um objeto (atualmente um cubo) se movimente por essa linha.
 
 ---
 
