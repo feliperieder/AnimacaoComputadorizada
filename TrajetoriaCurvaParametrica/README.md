@@ -37,10 +37,6 @@ Listar e escrever brevemente sobre os principais scripts do projeto.
 
 ## Link para a Build
 
-🔗 [https://usuario.itch.io/nome-do-jogo](https://usuario.itch.io/nome-do-jogo)
+🔗 [https://roedor.itch.io/trabalho-animacao-computadorizada-curvas-paramtricas]([https://usuario.itch.io/nome-do-jogo](https://roedor.itch.io/trabalho-animacao-computadorizada-curvas-paramtricas))
 
 ---
-
-## Comentários Finais (opcional)
-
- Descreva observações importantes, limitações ou pontos de atenção sobre o projeto.
