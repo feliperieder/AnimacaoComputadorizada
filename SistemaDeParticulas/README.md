@@ -35,12 +35,12 @@ Listar e escrever brevemente sobre os principais scripts do projeto.
 
 #### O que este exemplo demonstra:
 
-Emissor: Cone
-Trajetória: Movimento ascendente
-Variação de cor: Amarelo → Laranja → Vermelho
-Variação de tamanho: As partículas aumentam e diminuem de tamanho durante sua vida
-Variação de transparência: As partículas ficam gradualmente transparentes até desaparecerem
-Critério de morte: Tempo de vida / transparência
+- Emissor: Cone
+- Trajetória: Movimento ascendente
+- Variação de cor: Amarelo → Laranja → Vermelho
+- Variação de tamanho: As partículas aumentam e diminuem de tamanho durante sua vida
+- Variação de transparência: As partículas ficam gradualmente transparentes até desaparecerem
+- Critério de morte: Tempo de vida / transparência
 
 ### 2. Explosão
 
@@ -50,11 +50,11 @@ Critério de morte: Tempo de vida / transparência
 #### O que este exemplo demonstra:
 
 Emissor: Esfera
-Nascimento: Emissão em forma de Burst
-Trajetória: Movimento radial, afastando-se do centro da explosão
-Gravidade: As partículas sofrem uma força para baixo durante o movimento
-Variação de tamanho: As partículas aumentam e posteriormente diminuem
-Critério de morte: Tempo de vida
+- Nascimento: Emissão em forma de Burst
+- Trajetória: Movimento radial, afastando-se do centro da explosão
+- Gravidade: As partículas sofrem uma força para baixo durante o movimento
+- Variação de tamanho: As partículas aumentam e posteriormente diminuem
+- Critério de morte: Tempo de vida
 
 ### 3. Chuva
 
@@ -63,11 +63,11 @@ Critério de morte: Tempo de vida
 
 #### O que este exemplo demonstra:
 
-Emissor: Box
-Trajetória: Movimento vertical descendente
-Velocidade: Movimento rápido em direção ao solo
-Variação de transparência: As partículas podem desaparecer gradualmente
-Critério de morte: Colisão com o chão e/ou tempo de vida
+- Emissor: Box
+- Trajetória: Movimento vertical descendente
+- Velocidade: Movimento rápido em direção ao solo
+- Variação de transparência: As partículas podem desaparecer gradualmente
+- Critério de morte: Colisão com o chão e/ou tempo de vida
 
 ## Comportamentos demonstrados
 
