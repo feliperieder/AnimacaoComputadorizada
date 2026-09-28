@@ -85,17 +85,9 @@ Emissor: Esfera
 
 As partículas possuem diferentes atributos que podem ser alterados ao longo de sua vida:
 
-### Cor
-
-> As partículas podem mudar de cor durante sua evolução.
-
-### Tamanho
-
-> O tamanho das partículas varia durante sua vida.
-
-### Transparência
-
-> A transparência é alterada progressivamente até que a partícula fique completamente invisível.
+- **Cor**: As partículas podem mudar de cor durante sua evolução.
+- **Tamanho**: O tamanho das partículas varia durante sua vida.
+- **Transparência**: A transparência é alterada progressivamente até que a partícula fique completamente invisível.
 
 ## Emissores
 
