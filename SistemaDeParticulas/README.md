@@ -71,7 +71,7 @@ Emissor: Esfera
 
 ## Comportamentos demonstrados
 
-|Comportamento         |	Exemplo          |
+|**Comportamento**         |	**Exemplo**          |
 |----------------------|-------------------|
 | Movimento ascendente |	Fogo |
 |Movimento radial |	Explosão |
@@ -79,7 +79,7 @@ Emissor: Esfera
 |Movimento vertical descendente |	Chuva |
 |Variação de cor |	Fogo / Explosão |
 |Variação de tamanho	| Fogo / Explosão |
-|Variação de transparência	Fogo / Explosão / Chuva
+|Variação de transparência	| Fogo / Explosão / Chuva
 
 ## Link para a Build
 
