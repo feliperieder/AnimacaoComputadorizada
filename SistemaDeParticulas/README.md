@@ -26,6 +26,22 @@ Listar e escrever brevemente sobre os principais scripts do projeto.
 
 ---
 
+## Exemplos
+
+### 1. Fogo
+
+#### Descrição:
+> Sistema de partículas utilizado para representar uma chama. As partículas são emitidas a partir de um emissor em formato de cone e se movimentam para cima.
+
+#### O que este exemplo demonstra:
+
+Emissor: Cone
+Trajetória: Movimento ascendente
+Variação de cor: Amarelo → Laranja → Vermelho
+Variação de tamanho: As partículas aumentam e diminuem de tamanho durante sua vida
+Variação de transparência: As partículas ficam gradualmente transparentes até desaparecerem
+Critério de morte: Tempo de vida / transparência
+
 ## Link para a Build
 
 🔗 [https://roedor.itch.io/trabalho-animacao-computadorizada-curvas-paramtricas]([https://usuario.itch.io/nome-do-jogo](https://roedor.itch.io/trabalho-animacao-computadorizada-curvas-paramtricas))
