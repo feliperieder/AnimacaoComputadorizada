@@ -9,6 +9,7 @@ Repositório com os projetos desenvolvidos para a Atividade Acadêmica **Animaç
 | Projeto                 | Engine / Linguagem | Descrição breve                             |
 | ----------------------- | ------------------ | ------------------------------------------- |
 | `01-Trajetória com Curva Paramétrica`| Unity (C#)         |  sistema de trajetórias baseado em curvas paramétricas,    |
+| `02-Sistema de Partículas`| Unity (C#)         |  Simulação de partículas com múltiplas fases,    |
 
 
 ---
