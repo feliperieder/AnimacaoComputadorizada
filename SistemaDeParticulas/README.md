@@ -81,6 +81,36 @@ Emissor: Esfera
 |Variação de tamanho	| Fogo / Explosão |
 |Variação de transparência	| Fogo / Explosão / Chuva
 
+## Variações de atributos
+
+As partículas possuem diferentes atributos que podem ser alterados ao longo de sua vida:
+
+### Cor
+
+> As partículas podem mudar de cor durante sua evolução.
+
+### Tamanho
+
+> O tamanho das partículas varia durante sua vida.
+
+### Transparência
+
+> A transparência é alterada progressivamente até que a partícula fique completamente invisível.
+
+## Emissores
+
+Foram utilizadas diferentes formas de nascimento das partículas:
+
+- **Cone** — utilizado no sistema de fogo.
+- **Esfera** — utilizado no sistema de explosão.
+- **Box** — utilizado no sistema de chuva.
+
+##Critérios de morte
+Foram utilizados diferentes critérios para determinar quando uma partícula deve desaparecer:
+- **Tempo de vida**: A partícula é removida quando seu tempo de vida chega ao fim.
+- **Transparência**: A partícula deixa de ser renderizada quando sua transparência chega a zero.
+- **Colisão**: No sistema de chuva, as partículas podem desaparecer ao atingir o chão.
+
 ## Link para a Build
 
 🔗 [https://roedor.itch.io/trabalho-animacao-computadorizada-curvas-paramtricas]([https://usuario.itch.io/nome-do-jogo](https://roedor.itch.io/trabalho-animacao-computadorizada-curvas-paramtricas))
