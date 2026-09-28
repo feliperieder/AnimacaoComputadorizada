@@ -42,6 +42,45 @@ Variação de tamanho: As partículas aumentam e diminuem de tamanho durante sua
 Variação de transparência: As partículas ficam gradualmente transparentes até desaparecerem
 Critério de morte: Tempo de vida / transparência
 
+### 2. Explosão
+
+#### Descrição:
+> Sistema de partículas que representa uma explosão. As partículas nascem a partir de um ponto central e são lançadas em diferentes direções.
+
+#### O que este exemplo demonstra:
+
+Emissor: Esfera
+Nascimento: Emissão em forma de Burst
+Trajetória: Movimento radial, afastando-se do centro da explosão
+Gravidade: As partículas sofrem uma força para baixo durante o movimento
+Variação de tamanho: As partículas aumentam e posteriormente diminuem
+Critério de morte: Tempo de vida
+
+### 3. Chuva
+
+#### Descrição:
+> Sistema de partículas que representa gotas de chuva. As partículas são distribuídas por uma área e se movimentam verticalmente para baixo.
+
+#### O que este exemplo demonstra:
+
+Emissor: Box
+Trajetória: Movimento vertical descendente
+Velocidade: Movimento rápido em direção ao solo
+Variação de transparência: As partículas podem desaparecer gradualmente
+Critério de morte: Colisão com o chão e/ou tempo de vida
+
+## Comportamentos demonstrados
+
+|Comportamento         |	Exemplo          |
+|----------------------|-------------------|
+| Movimento ascendente |	Fogo |
+|Movimento radial |	Explosão |
+|Movimento com gravidade	| Explosão |
+|Movimento vertical descendente |	Chuva |
+|Variação de cor |	Fogo / Explosão |
+|Variação de tamanho	| Fogo / Explosão |
+|Variação de transparência	Fogo / Explosão / Chuva
+
 ## Link para a Build
 
 🔗 [https://roedor.itch.io/trabalho-animacao-computadorizada-curvas-paramtricas]([https://usuario.itch.io/nome-do-jogo](https://roedor.itch.io/trabalho-animacao-computadorizada-curvas-paramtricas))
