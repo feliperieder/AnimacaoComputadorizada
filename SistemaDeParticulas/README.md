@@ -105,6 +105,6 @@ Foram utilizados diferentes critérios para determinar quando uma partícula dev
 
 ## Link para a Build
 
-🔗 [https://roedor.itch.io/trabalho-animacao-computadorizada-curvas-paramtricas]([https://usuario.itch.io/nome-do-jogo](https://roedor.itch.io/trabalho-animacao-computadorizada-curvas-paramtricas))
+🔗 [https://roedor.itch.io/trabalho-animacao-computadorizada-curvas-paramtricas](https://roedor.itch.io/animao-computadorizada-sistema-de-particulas)
 
 ---
