@@ -143,4 +143,4 @@ Foram utilizados três Shape Keys diferentes no modelo:
 
 ---
 
-🔗 [[https://roedor.itch.io/trabalho-animacao-computadorizada-curvas-paramtricas](https://roedor.itch.io/animao-computadorizada-sistema-de-particulas)](https://roedor.itch.io/animao-computadorizada-shapekeys)
+🔗 [https://roedor.itch.io/animao-computadorizada-shapekeyss](https://roedor.itch.io/animao-computadorizada-shapekeys)
