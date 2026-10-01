@@ -142,3 +142,5 @@ Foram utilizados três Shape Keys diferentes no modelo:
 > Shape Key responsável por modificar os olhos da Suzanne. É ativado após a animação de `CabecaGrande`.
 
 ---
+
+🔗 [[https://roedor.itch.io/trabalho-animacao-computadorizada-curvas-paramtricas](https://roedor.itch.io/animao-computadorizada-sistema-de-particulas)](https://roedor.itch.io/animao-computadorizada-shapekeys)
