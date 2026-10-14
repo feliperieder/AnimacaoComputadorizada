@@ -121,7 +121,3 @@ Dessa forma, a mudança de cor depende tanto da intensidade dos graves quanto da
 - **Interação entre áudio e imagem:** utilização das características sonoras para controlar efeitos visuais.
 
 ---
-
-## Link para a Build
-
-🔗 *Adicionar aqui o link para a build do projeto, caso esteja disponível.*
